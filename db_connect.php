@@ -7,9 +7,9 @@ mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
 // --- Database Credentials ---
 // Replace with your actual database details from Hostinger
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql-ipx-db');
 define('DB_USER', 'root');
-define('DB_PASS', ''); // Default password is empty
+define('DB_PASS', 'G1uIUVxqE5LsR3LlbjZo9aKtmfUsI9AxAwa9nOiublQgn16PabiqQnN0LJboJhK3'); // Default password is empty
 define('DB_NAME', 'ipx');
 
 
